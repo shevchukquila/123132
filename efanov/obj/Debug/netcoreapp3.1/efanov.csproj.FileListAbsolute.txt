@@ -1,0 +1,13 @@
+D:\212\efanov\efanov\bin\Debug\netcoreapp3.1\efanov.exe
+D:\212\efanov\efanov\bin\Debug\netcoreapp3.1\efanov.deps.json
+D:\212\efanov\efanov\bin\Debug\netcoreapp3.1\efanov.runtimeconfig.json
+D:\212\efanov\efanov\bin\Debug\netcoreapp3.1\efanov.runtimeconfig.dev.json
+D:\212\efanov\efanov\bin\Debug\netcoreapp3.1\efanov.dll
+D:\212\efanov\efanov\bin\Debug\netcoreapp3.1\efanov.pdb
+D:\212\efanov\efanov\obj\Debug\netcoreapp3.1\efanov.csprojAssemblyReference.cache
+D:\212\efanov\efanov\obj\Debug\netcoreapp3.1\efanov.AssemblyInfoInputs.cache
+D:\212\efanov\efanov\obj\Debug\netcoreapp3.1\efanov.AssemblyInfo.cs
+D:\212\efanov\efanov\obj\Debug\netcoreapp3.1\efanov.csproj.CoreCompileInputs.cache
+D:\212\efanov\efanov\obj\Debug\netcoreapp3.1\efanov.dll
+D:\212\efanov\efanov\obj\Debug\netcoreapp3.1\efanov.pdb
+D:\212\efanov\efanov\obj\Debug\netcoreapp3.1\efanov.genruntimeconfig.cache
